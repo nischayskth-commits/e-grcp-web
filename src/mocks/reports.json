@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Monthly Procurement Report",
+    "type": "PDF",
+    "generatedBy": "Administrator",
+    "generatedDate": "2026-07-01",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "name": "Vendor Performance Report",
+    "type": "Excel",
+    "generatedBy": "Procurement Manager",
+    "generatedDate": "2026-07-01",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "name": "Compliance Summary",
+    "type": "PDF",
+    "generatedBy": "Compliance Officer",
+    "generatedDate": "2026-07-01",
+    "status": "Completed"
+  }
+]

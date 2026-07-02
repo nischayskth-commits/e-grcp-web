@@ -1,0 +1,112 @@
+[
+  {
+    "id": "PR-1001",
+    "title": "Purchase Dell Laptops",
+    "department": "IT",
+    "requester": "Rahul Sharma",
+    "vendor": "Dell India",
+    "amount": 250000,
+    "status": "Approved",
+    "priority": "High",
+    "createdDate": "2026-06-01"
+  },
+  {
+    "id": "PR-1002",
+    "title": "Office Chairs",
+    "department": "Administration",
+    "requester": "Amit Kumar",
+    "vendor": "Godrej",
+    "amount": 95000,
+    "status": "Pending",
+    "priority": "Medium",
+    "createdDate": "2026-06-03"
+  },
+  {
+    "id": "PR-1003",
+    "title": "Cloud Subscription",
+    "department": "IT",
+    "requester": "Sneha Reddy",
+    "vendor": "Microsoft",
+    "amount": 420000,
+    "status": "Approved",
+    "priority": "High",
+    "createdDate": "2026-06-04"
+  },
+  {
+    "id": "PR-1004",
+    "title": "Printer Purchase",
+    "department": "Finance",
+    "requester": "Vikram Singh",
+    "vendor": "HP",
+    "amount": 35000,
+    "status": "Rejected",
+    "priority": "Low",
+    "createdDate": "2026-06-05"
+  },
+  {
+    "id": "PR-1005",
+    "title": "Network Switches",
+    "department": "IT",
+    "requester": "Rahul Sharma",
+    "vendor": "Cisco",
+    "amount": 185000,
+    "status": "Pending",
+    "priority": "High",
+    "createdDate": "2026-06-06"
+  },
+  {
+    "id": "PR-1006",
+    "title": "Security Cameras",
+    "department": "Security",
+    "requester": "Anjali Rao",
+    "vendor": "Hikvision",
+    "amount": 150000,
+    "status": "Approved",
+    "priority": "Medium",
+    "createdDate": "2026-06-07"
+  },
+  {
+    "id": "PR-1007",
+    "title": "Projectors",
+    "department": "Administration",
+    "requester": "Deepak Jain",
+    "vendor": "Epson",
+    "amount": 78000,
+    "status": "Pending",
+    "priority": "Medium",
+    "createdDate": "2026-06-08"
+  },
+  {
+    "id": "PR-1008",
+    "title": "Software Licenses",
+    "department": "IT",
+    "requester": "Sneha Reddy",
+    "vendor": "Adobe",
+    "amount": 225000,
+    "status": "Approved",
+    "priority": "High",
+    "createdDate": "2026-06-09"
+  },
+  {
+    "id": "PR-1009",
+    "title": "UPS Batteries",
+    "department": "Infrastructure",
+    "requester": "Rohit Verma",
+    "vendor": "APC",
+    "amount": 58000,
+    "status": "Pending",
+    "priority": "Medium",
+    "createdDate": "2026-06-10"
+  },
+  {
+    "id": "PR-1010",
+    "title": "Conference Tables",
+    "department": "Administration",
+    "requester": "Amit Kumar",
+    "vendor": "IKEA",
+    "amount": 112000,
+    "status": "Approved",
+    "priority": "Low",
+    "createdDate": "2026-06-11"
+  }
+]

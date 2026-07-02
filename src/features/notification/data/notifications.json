@@ -1,0 +1,50 @@
+[
+  {
+    "id": "NOT-001",
+    "title": "Vendor Approved",
+    "message": "ABC Pvt Ltd has been approved.",
+    "priority": "High",
+    "status": "Unread",
+    "time": "2 min ago"
+  },
+  {
+    "id": "NOT-002",
+    "title": "Risk Assessment Updated",
+    "message": "Risk score updated for Procurement.",
+    "priority": "Medium",
+    "status": "Read",
+    "time": "15 min ago"
+  },
+  {
+    "id": "NOT-003",
+    "title": "Compliance Violation",
+    "message": "A new compliance violation was detected.",
+    "priority": "High",
+    "status": "Unread",
+    "time": "30 min ago"
+  },
+  {
+    "id": "NOT-004",
+    "title": "Audit Report Generated",
+    "message": "Monthly audit report is ready.",
+    "priority": "Low",
+    "status": "Read",
+    "time": "1 hour ago"
+  },
+  {
+    "id": "NOT-005",
+    "title": "System Backup Completed",
+    "message": "Daily backup completed successfully.",
+    "priority": "Low",
+    "status": "Read",
+    "time": "2 hours ago"
+  },
+  {
+    "id": "NOT-006",
+    "title": "New Procurement Request",
+    "message": "Purchase request PR-106 submitted.",
+    "priority": "Medium",
+    "status": "Unread",
+    "time": "3 hours ago"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "VEN-001",
+    "name": "ABC Technologies Pvt Ltd",
+    "category": "IT Services",
+    "status": "Approved",
+    "risk": "Low",
+    "contactPerson": "Rahul Sharma",
+    "email": "rahul@abctech.com",
+    "phone": "+91 9876543210",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "gst": "29ABCDE1234F1Z5",
+    "pan": "ABCDE1234F",
+    "registrationDate": "2024-01-15",
+    "contracts": 12,
+    "spend": 1450000,
+    "documents": [
+      "GST Certificate",
+      "PAN Card",
+      "MSME Certificate"
+    ]
+  },
+  {
+    "id": "VEN-002",
+    "name": "Global Infrastructure Ltd",
+    "category": "Infrastructure",
+    "status": "Pending",
+    "risk": "Medium",
+    "contactPerson": "Anita Rao",
+    "email": "anita@globalinfra.com",
+    "phone": "+91 9988776655",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "gst": "36AAACG5678L1Z2",
+    "pan": "AAACG5678L",
+    "registrationDate": "2024-02-20",
+    "contracts": 5,
+    "spend": 620000,
+    "documents": [
+      "GST Certificate",
+      "PAN Card"
+    ]
+  },
+  {
+    "id": "VEN-003",
+    "name": "Secure Systems India",
+    "category": "Security",
+    "status": "Approved",
+    "risk": "High",
+    "contactPerson": "Vikram Singh",
+    "email": "vikram@securesystems.com",
+    "phone": "+91 9123456780",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "gst": "27AACCS7890A1Z8",
+    "pan": "AACCS7890A",
+    "registrationDate": "2023-11-05",
+    "contracts": 18,
+    "spend": 2950000,
+    "documents": [
+      "GST Certificate",
+      "PAN Card",
+      "ISO Certificate"
+    ]
+  },
+  {
+    "id": "VEN-004",
+    "name": "Prime Office Solutions",
+    "category": "Administration",
+    "status": "Rejected",
+    "risk": "High",
+    "contactPerson": "Suresh Kumar",
+    "email": "suresh@primeoffice.com",
+    "phone": "+91 9011223344",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "gst": "33AAPPP4567D1Z1",
+    "pan": "AAPPP4567D",
+    "registrationDate": "2024-03-18",
+    "contracts": 2,
+    "spend": 150000,
+    "documents": [
+      "GST Certificate"
+    ]
+  },
+  {
+    "id": "VEN-005",
+    "name": "FinCorp Consulting",
+    "category": "Finance",
+    "status": "Approved",
+    "risk": "Low",
+    "contactPerson": "Neha Gupta",
+    "email": "neha@fincorp.com",
+    "phone": "+91 9888899999",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "gst": "27AACCF4567G1Z2",
+    "pan": "AACCF4567G",
+    "registrationDate": "2023-09-12",
+    "contracts": 8,
+    "spend": 980000,
+    "documents": [
+      "GST Certificate",
+      "PAN Card",
+      "ISO Certificate"
+    ]
+  }
+]

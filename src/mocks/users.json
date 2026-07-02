@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "firstName": "System",
+    "lastName": "Administrator",
+    "email": "admin@egrcp.com",
+    "password": "Admin@123",
+    "role": "Administrator",
+    "department": "IT",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "email": "manager@egrcp.com",
+    "password": "Manager@123",
+    "role": "Procurement Manager",
+    "department": "Procurement",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 3,
+    "firstName": "Anjali",
+    "lastName": "Verma",
+    "email": "employee@egrcp.com",
+    "password": "Employee@123",
+    "role": "Employee",
+    "department": "Finance",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 4,
+    "firstName": "Karan",
+    "lastName": "Patel",
+    "email": "auditor@egrcp.com",
+    "password": "Auditor@123",
+    "role": "Auditor",
+    "department": "Audit",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 5,
+    "firstName": "Sneha",
+    "lastName": "Reddy",
+    "email": "compliance@egrcp.com",
+    "password": "Compliance@123",
+    "role": "Compliance Officer",
+    "department": "Compliance",
+    "status": "ACTIVE"
+  }
+]

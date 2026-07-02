@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Procurement Approved",
+    "message": "Purchase Request PR-1001 has been approved.",
+    "status": "Unread",
+    "time": "10 mins ago"
+  },
+  {
+    "id": 2,
+    "title": "Vendor Registered",
+    "message": "ABC Technologies has been added as a new vendor.",
+    "status": "Read",
+    "time": "1 hour ago"
+  },
+  {
+    "id": 3,
+    "title": "Risk Alert",
+    "message": "High risk identified in Vendor Evaluation.",
+    "status": "Unread",
+    "time": "Today"
+  }
+]

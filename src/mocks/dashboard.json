@@ -1,0 +1,69 @@
+{
+  "kpis": {
+    "totalRequests": 1248,
+    "pendingRequests": 186,
+    "approvedRequests": 964,
+    "rejectedRequests": 98,
+    "vendors": 327,
+    "risks": 42,
+    "complianceIssues": 15
+  },
+
+  "monthlyProcurement": [
+    { "month": "Jan", "requests": 120 },
+    { "month": "Feb", "requests": 160 },
+    { "month": "Mar", "requests": 210 },
+    { "month": "Apr", "requests": 180 },
+    { "month": "May", "requests": 250 },
+    { "month": "Jun", "requests": 300 }
+  ],
+
+  "riskTrend": [
+    { "month": "Jan", "count": 18 },
+    { "month": "Feb", "count": 22 },
+    { "month": "Mar", "count": 17 },
+    { "month": "Apr", "count": 28 },
+    { "month": "May", "count": 24 },
+    { "month": "Jun", "count": 20 }
+  ],
+
+  "complianceTrend": [
+    { "month": "Jan", "score": 78 },
+    { "month": "Feb", "score": 82 },
+    { "month": "Mar", "score": 85 },
+    { "month": "Apr", "score": 88 },
+    { "month": "May", "score": 91 },
+    { "month": "Jun", "score": 95 }
+  ],
+
+  "departmentSpending": [
+    { "department": "IT", "amount": 320 },
+    { "department": "Finance", "amount": 220 },
+    { "department": "HR", "amount": 150 },
+    { "department": "Operations", "amount": 410 },
+    { "department": "Procurement", "amount": 270 }
+  ],
+
+  "recentActivities": [
+    {
+      "id": 1,
+      "time": "09:20 AM",
+      "activity": "Vendor ABC Pvt Ltd was onboarded."
+    },
+    {
+      "id": 2,
+      "time": "10:15 AM",
+      "activity": "Procurement Request PR-1023 approved."
+    },
+    {
+      "id": 3,
+      "time": "11:05 AM",
+      "activity": "Compliance document uploaded."
+    },
+    {
+      "id": 4,
+      "time": "12:10 PM",
+      "activity": "Risk assessment updated."
+    }
+  ]
+}

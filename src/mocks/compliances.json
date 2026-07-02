@@ -1,0 +1,112 @@
+[
+  {
+    "id": "COMP-001",
+    "title": "ISO 27001 Certification",
+    "department": "IT Security",
+    "owner": "John Smith",
+    "status": "Compliant",
+    "severity": "Low",
+    "documentStatus": "Available",
+    "certificationExpiry": "2026-08-15",
+    "lastReview": "2025-12-20"
+  },
+  {
+    "id": "COMP-002",
+    "title": "Vendor NDA Compliance",
+    "department": "Procurement",
+    "owner": "Rahul Sharma",
+    "status": "Violation",
+    "severity": "High",
+    "documentStatus": "Missing",
+    "certificationExpiry": "2025-05-10",
+    "lastReview": "2025-11-18"
+  },
+  {
+    "id": "COMP-003",
+    "title": "GDPR Compliance",
+    "department": "Legal",
+    "owner": "Anita Rao",
+    "status": "Compliant",
+    "severity": "Medium",
+    "documentStatus": "Available",
+    "certificationExpiry": "2027-01-20",
+    "lastReview": "2025-10-15"
+  },
+  {
+    "id": "COMP-004",
+    "title": "SOC 2 Audit",
+    "department": "IT",
+    "owner": "David Lee",
+    "status": "Violation",
+    "severity": "Critical",
+    "documentStatus": "Missing",
+    "certificationExpiry": "2024-12-31",
+    "lastReview": "2025-09-30"
+  },
+  {
+    "id": "COMP-005",
+    "title": "Employee Training",
+    "department": "HR",
+    "owner": "Priya Nair",
+    "status": "Pending",
+    "severity": "Low",
+    "documentStatus": "Available",
+    "certificationExpiry": "2025-11-30",
+    "lastReview": "2025-11-01"
+  },
+  {
+    "id": "COMP-006",
+    "title": "PCI DSS Compliance",
+    "department": "Finance",
+    "owner": "Michael Brown",
+    "status": "Compliant",
+    "severity": "Medium",
+    "documentStatus": "Available",
+    "certificationExpiry": "2026-10-01",
+    "lastReview": "2025-10-22"
+  },
+  {
+    "id": "COMP-007",
+    "title": "Vendor Background Check",
+    "department": "Procurement",
+    "owner": "Sneha Patel",
+    "status": "Violation",
+    "severity": "High",
+    "documentStatus": "Missing",
+    "certificationExpiry": "2025-03-01",
+    "lastReview": "2025-08-20"
+  },
+  {
+    "id": "COMP-008",
+    "title": "Environmental Compliance",
+    "department": "Operations",
+    "owner": "Rohit Kumar",
+    "status": "Pending",
+    "severity": "Medium",
+    "documentStatus": "Available",
+    "certificationExpiry": "2025-09-18",
+    "lastReview": "2025-11-25"
+  },
+  {
+    "id": "COMP-009",
+    "title": "Information Security Policy",
+    "department": "IT Security",
+    "owner": "Sarah Wilson",
+    "status": "Compliant",
+    "severity": "Low",
+    "documentStatus": "Available",
+    "certificationExpiry": "2027-04-10",
+    "lastReview": "2025-12-01"
+  },
+  {
+    "id": "COMP-010",
+    "title": "Supplier Certification",
+    "department": "Procurement",
+    "owner": "Arjun Mehta",
+    "status": "Violation",
+    "severity": "Critical",
+    "documentStatus": "Missing",
+    "certificationExpiry": "2025-02-14",
+    "lastReview": "2025-07-12"
+  }
+]
