@@ -180,7 +180,7 @@ git clone https://github.com/nischayskth-commits/e-grcp-web
 ### Navigate to the Project
 
 ```bash
-cd e-grcp
+cd e-grcp-web
 ```
 
 ### Install Dependencies
