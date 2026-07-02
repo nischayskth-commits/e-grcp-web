@@ -174,7 +174,7 @@ Allows users to manage profiles, preferences, themes, and security settings.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/e-grcp.git
+git clone https://github.com/nischayskth-commits/e-grcp-web
 ```
 
 ### Navigate to the Project
