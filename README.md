@@ -282,20 +282,7 @@ Test coverage includes:
 
 ---
 
-## Screenshots
 
-Add screenshots of the following pages:
-
-- Login
-- Dashboard
-- Procurement
-- Vendor Management
-- Risk Center
-- Compliance Center
-- Audit Center
-- Reports
-
----
 
 ## Author
 
